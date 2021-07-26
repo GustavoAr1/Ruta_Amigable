@@ -1,0 +1,23 @@
+{
+  "name": "ruta_amigable",
+  "version": "1.0.0",
+  "description": "API\r Creación de una api básica con node y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoAr1/Ruta_Amigable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoAr1/Ruta_Amigable/issues"
+  },
+  "homepage": "https://github.com/GustavoAr1/Ruta_Amigable#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
